@@ -1,6 +1,6 @@
 {
-  "name": "@lkuechler/github-package-registry-monorepo-test-package2",
-  "version": "0.18.0",
+  "name": "@raspy8766/github-package-registry-monorepo-test-package2",
+  "version": "0.22.0",
   "description": "package2 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
@@ -8,6 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
+    "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
   }
 }
