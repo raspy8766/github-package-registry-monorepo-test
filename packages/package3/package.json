@@ -1,10 +1,11 @@
 {
   "name": "@raspy8766/github-package-registry-monorepo-test-package3",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "package3 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
-    "access": "restricted"
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
