@@ -1,6 +1,6 @@
 {
   "name": "@raspy8766/github-package-registry-monorepo-test",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "package1 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "@raspy8766/github-package-registry-monorepo-test-package2": "0.21.0",
-    "@raspy8766/github-package-registry-monorepo-test-package3": "0.21.0"
+    "@raspy8766/github-package-registry-monorepo-test-package3": "0.21.0",
+    "lodash": "^4.17.15"
   },
   "repository": {
     "type": "git",
