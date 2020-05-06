@@ -1,9 +1,17 @@
 {
   "lerna": "2",
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "packages": [
     "packages/**"
   ],
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com"
+    },
+    "bootstrap": {
+      "registry": "https://npm.pkg.github.com"
+    }
+  },
   "useWorkspaces": true,
   "version": "1.0.14"
 }
