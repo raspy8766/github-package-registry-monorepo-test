@@ -2,9 +2,5 @@
   "name": "@raspy8766/github-package-registry-monorepo-test-package3",
   "version": "1.0.19",
   "description": "package3 of github package registry monorepo test",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
-  }
+  "main": "index.js"
 }

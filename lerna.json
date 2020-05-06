@@ -6,7 +6,11 @@
   ],
   "command": {
     "publish": {
-      "registry": "https://npm.pkg.github.com"
+      "registry": "https://npm.pkg.github.com",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
+      }
     },
     "bootstrap": {
       "registry": "https://npm.pkg.github.com"
