@@ -1,6 +1,6 @@
 {
   "name": "@raspy8766/github-package-registry-monorepo-test-package2",
-  "version": "0.25.0",
+  "version": "1.0.0",
   "description": "package2 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
