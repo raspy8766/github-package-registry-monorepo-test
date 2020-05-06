@@ -1,5 +1,5 @@
 {
-  "name": "@lkuechler/github-package-registry-monorepo-test-root",
+  "name": "@raspy8766/github-package-registry-monorepo-test-root",
   "workspaces": [
     "packages/*"
   ],
@@ -11,11 +11,11 @@
     "lerna": "3.4.3"
   },
   "publishConfig": {
-    "access": "private"
+    "access": "restricted"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
+    "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
   },
   "version": "0.1.0"
 }

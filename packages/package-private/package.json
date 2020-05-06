@@ -1,9 +1,9 @@
 {
-  "name": "@lkuechler/github-package-registry-monorepo-test-package-private",
+  "name": "@raspy8766/github-package-registry-monorepo-test-package-private",
   "version": "0.18.0",
   "description": "package private of github package registry monorepo test",
   "dependencies": {
-    "@lkuechler/github-package-registry-monorepo-test": "^0.18.0"
+    "@raspy8766/github-package-registry-monorepo-test": "0.21.0"
   },
   "private": true
 }
