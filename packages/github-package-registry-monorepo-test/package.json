@@ -1,18 +1,18 @@
 {
-  "name": "@lkuechler/github-package-registry-monorepo-test",
-  "version": "0.18.0",
+  "name": "@raspy8766/github-package-registry-monorepo-test",
+  "version": "0.21.0",
   "description": "package1 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
     "access": "restricted"
   },
   "dependencies": {
-    "@lkuechler/github-package-registry-monorepo-test-package2": "^0.18.0",
-    "@lkuechler/github-package-registry-monorepo-test-package3": "^0.18.0"
+    "@raspy8766/github-package-registry-monorepo-test-package2": "0.21.0",
+    "@raspy8766/github-package-registry-monorepo-test-package3": "0.21.0"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com/lkuechler/github-package-registry-monorepo-test.git"
+    "url": "https://github.com/raspy8766/github-package-registry-monorepo-test.git"
   },
   "sideEffects": false
 }
