@@ -1,10 +1,11 @@
 {
   "name": "@raspy8766/github-package-registry-monorepo-test",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "package1 of github package registry monorepo test",
   "main": "index.js",
   "publishConfig": {
-    "access": "restricted"
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com/raspy8766"
   },
   "dependencies": {
     "@raspy8766/github-package-registry-monorepo-test-package2": "0.21.0",
